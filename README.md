@@ -4713,7 +4713,7 @@
 		end)
 	end)
 	
-	local Main = library:Window("YuriKubg","Blox Fruit 1.18.2.4.5WeP")
+	local Main = library:Window("YuriKung","Blox Fruits beta")
 	local AutoFarmTab = Main:Tab("Auto Farm")
 	local MainAutoFarmFunction = AutoFarm(Ms,NameQuest,LevelQuest,NameMon,CFrameMon,CFrameQuest,"AutoFarmLevel")
 	spawn(function()
